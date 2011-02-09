@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="greeting_message">Gracias por descargar</string>
+	<string name="welcome_message">Aquí podrás reportar todos los establecimientos donde no se este respetando la Ley Antitabaco.</string>
+	<string name="report_button_text">Reportar</string>
+	<string name="profile_window_title">Perfil</string>
+	<string name="privacy_settings_label">Preferencias de privacidad</string>
+	<string name="report_listing_label">Mis reportes</string>
+	<string name="places_window_title">Seleccione un local</string>
+	<string name="reporting_error_message">Oh oh, no se pudo reportar el local.</string>
+	<string name="reporting_success_title">Reporte enviado</string>
+	<string name="reporting_success_message">Gracias por reportar a '%s'. Puedes consultar el reporte y mucho más en http://antitabacoapp.com</string>
+	<string name="reporting_success_facebook_message">Ha reportado que dentro de '%s' hay personas fumando</string>
+	<string name="reporting_facebook_message_action">Ver reporte en sitio web</string>
+	<string name="no_network_title">Conexión de Internet</string>
+	<string name="no_network_message">Una conexión a Internet es obligatoria para utilizar esta aplicación. Por favor asegúrese de tener cobertura de datos en su móvil.</string>
+	<string name="places_close_button">Cerrar</string>
+	<string name="places_error_message">Oh oh, no se pudo encontrar los locales a su al rededor</string>
+	<string name="geolocation_purpose_message">Encontrar locales al rededor de su ubicación actual</string>
+	<string name="geolocation_error_message">No se pudo encontrar su ubicación actual.</string>
+	<string name="profile_close_button">Cerrar</string>
+	<string name="profile_publish_anonymously_switch">Reportar públicamente</string>
+	<string name="profile_publish_facebook_switch">Publicar en Facebook</string>
+</resources>

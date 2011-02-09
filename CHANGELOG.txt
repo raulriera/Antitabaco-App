@@ -1,0 +1,13 @@
+1.2:
+- Support for English localization
+- Improved establishment location
+- Improved Facebook integration
+- Ability to delete reports
+
+1.1:
+- Several bugs fixed
+- Added support to delete previous reports
+- Added privacy settings
+
+1.0:
+- Initial build

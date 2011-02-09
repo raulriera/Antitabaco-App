@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="greeting_message">Thank you for downloading</string>
+	<string name="welcome_message">Here you can report which establishment has someone  smoking inside.</string>
+	<string name="report_button_text">Report</string>
+	<string name="profile_window_title">Profile</string>
+	<string name="privacy_settings_label">Privacy settings</string>
+	<string name="report_listing_label">My reports</string>
+	<string name="places_window_title">Select an establishment</string>
+	<string name="reporting_error_message">Oops, there was a problem trying to report this place.</string>
+	<string name="reporting_success_title">Report sent!</string>
+	<string name="reporting_success_message">Thank your for reporting '%s'. You can check out the report more at http://antitabacoapp.com</string>
+	<string name="reporting_success_facebook_message">has reported that inside '%s' someone is  smoking</string>
+	<string name="reporting_facebook_message_action">View report on website</string>
+	<string name="no_network_title">Internet connection</string>
+	<string name="no_network_message">A network connection is required to use this application. Please make sure you have cellular data coverage.</string>
+	<string name="places_close_button">Close</string>
+	<string name="places_error_message">There was an error trying to fetch any nearby places</string>
+	<string name="geolocation_purpose_message">Find establishments around your current location</string>
+	<string name="geolocation_error_message">Unable to find your current location.</string>
+	<string name="profile_close_button">Close</string>
+	<string name="profile_publish_anonymously_switch">Report publicly</string>
+	<string name="profile_publish_facebook_switch">Publish on Facebook</string>
+</resources>
